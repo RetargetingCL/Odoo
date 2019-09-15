@@ -1,0 +1,4 @@
+[submodule "MobilizeSpa/payroll_analytic_account"]
+	path = MobilizeSpa/payroll_analytic_account
+	url = git@github.com:MobilizeSpa/payroll_analytic_account.git
+	branch = master
