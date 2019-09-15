@@ -2,3 +2,8 @@
 	path = MobilizeSpa/payroll_analytic_account
 	url = git@github.com:MobilizeSpa/payroll_analytic_account.git
 	branch = master
+
+[submodule "MobilizeSpa/l10n_cl_hr_payroll_account"]
+	path = MobilizeSpa/l10n_cl_hr_payroll_account
+	url = git@github.com:MobilizeSpa/l10n_cl_hr_payroll_account.git
+	branch = master
