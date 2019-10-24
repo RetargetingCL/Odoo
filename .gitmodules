@@ -17,3 +17,8 @@
 	path = MobilizeSpa/hr_payroll_cancel
 	url = git@github.com:MobilizeSpa/hr_payroll_cancel.git
 	branch = master
+
+[submodule "MobilizeSpa/MobilizeCL"]
+	path = MobilizeSpa/MobilizeCL
+	url = git@github.com:MobilizeSpa/MobilizeCL.git
+	branch = master_mobilze
