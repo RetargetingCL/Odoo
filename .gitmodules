@@ -22,3 +22,8 @@
 	path = MobilizeSpa/MobilizeCL
 	url = git@github.com:MobilizeSpa/MobilizeCL.git
 	branch = master_mobilze
+
+[submodule "MobilizeSpa/addons_3ros_v12"]
+	path = MobilizeSpa/addons_3ros_v12
+	url = git@github.com:MobilizeSpa/addons_3ros_v12.git
+	branch = master
