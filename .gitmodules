@@ -47,3 +47,8 @@
 	path = MobilizeSpa/bi_view_editor
 	url = git@github.com:MobilizeSpa/bi_view_editor.git
 	branch = MSIte
+
+[submodule "RetargetingCL/bi_editor"]
+	path = RetargetingCL/bi_editor
+	url = git@github.com:RetargetingCL/bi_view_editor.git
+	branch = rt_master
