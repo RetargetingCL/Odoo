@@ -27,3 +27,8 @@
 	path = MobilizeSpa/addons_3ros_v12
 	url = git@github.com:MobilizeSpa/addons_3ros_v12.git
 	branch = master
+
+[submodule "RetargetingCL/BI_Report"]
+	path = RetargetingCL/BI_Report
+	url = git@github.com:RetargetingCL/BI_Report.git
+	branch = master
