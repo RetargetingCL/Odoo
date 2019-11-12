@@ -52,3 +52,8 @@
 	path = RetargetingCL/bi_editor
 	url = git@github.com:RetargetingCL/bi_view_editor.git
 	branch = rt_master
+
+[submodule "RetargetingCL/Report_bi_view_editor"]
+	path = RetargetingCL/Report_bi_view_editor
+	url = git@github.com:RetargetingCL/Report_bi_view_editor.git
+	branch = rt_master
