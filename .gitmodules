@@ -37,3 +37,8 @@
 	path = RetargetingCL/bi_view_editor
 	url = git@github.com:RetargetingCL/bi_view_editor.git
 	branch = master
+
+[submodule "RetargetingCL/bi_view"]
+	path = RetargetingCL/bi_view
+	url = git@github.com:RetargetingCL/bi_view.git
+	branch = rt_master
