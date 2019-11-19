@@ -57,3 +57,8 @@
 	path = RetargetingCL/Report_bi_view_editor
 	url = git@github.com:RetargetingCL/Report_bi_view_editor.git
 	branch = rt_master
+
+[submodule "RetargetingCL/l10n_cl_hr_payroll_extended"]
+	path = RetargetingCL/l10n_cl_hr_payroll_extended
+	url = git@github.com:RetargetingCL/l10n_cl_hr_payroll_extended.git
+	branch = rt_master
