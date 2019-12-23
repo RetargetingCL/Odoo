@@ -123,8 +123,8 @@ class WizardExportCsvPrevired(models.TransientModel):
 
     
     @api.model
-    def validity_date_start(self, payslip):
-        #metodo para validar la fecha inicial del periodo
+    def validity_date_start(self, payslip):      
+        #metodo para validar la fecha inicial del periodo probando
         #si la persona posee movimientos se coloca la fecha date_start_mp, de lo contrario la fecha del periodo
         if payslip.date_start_mp: 
             fecha = payslip.date_start_mp.strftime("%d/%m/%Y")           
