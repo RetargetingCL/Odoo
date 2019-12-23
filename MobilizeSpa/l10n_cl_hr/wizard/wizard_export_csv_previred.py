@@ -539,7 +539,7 @@ class WizardExportCsvPrevired(models.TransientModel):
                              self.get_imponible_mutual(payslip and payslip[0] or False, self.get_payslip_lines_value_2(payslip,'TOTIM')),
                              #98 Cotizacion Accidente del Trabajo
                              int(self.get_payslip_lines_value_2(payslip,'MUT')) if self.get_payslip_lines_value_2(payslip,'MUT') else "0",
-                             #99 Codigo de Sucursal (Uso Futuro)
+                             #99 Codigo de Sucursal (Uso Futuro)  
                              "0",
                              #10- Datos Administradora de Seguro de Cesantia
                              self.get_imponible_seguro_cesantia(payslip and payslip[0] or False, self.get_payslip_lines_value_2(payslip,'TOTIM') , self.get_payslip_lines_value_2(payslip,'IMPLIC')),
