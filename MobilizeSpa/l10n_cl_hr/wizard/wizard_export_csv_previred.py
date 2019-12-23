@@ -551,7 +551,7 @@ class WizardExportCsvPrevired(models.TransientModel):
                              # yo pensaba rut_emp,
                              "0",
                              #104 DV Pagadora Subsidio
-                             # yo pensaba rut_emp_dv,
+                             # yo pensaba rut_emp_dv, 
                              "",
                              #105 Centro de Costos, Sucursal, Agencia 
                              int(self.get_cost_center(payslip.contract_id)),
