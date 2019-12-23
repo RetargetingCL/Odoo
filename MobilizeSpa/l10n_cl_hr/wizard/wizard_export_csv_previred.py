@@ -548,7 +548,7 @@ class WizardExportCsvPrevired(models.TransientModel):
                              #102 Aporte Empleador Seguro Cesantia
                              int(self.get_payslip_lines_value_2(payslip,'SECEEMP')) if self.get_payslip_lines_value_2(payslip,'SECEEMP') else "0",
                              #103 Rut Pagadora Subsidio
-                             # yo pensaba rut_emp,
+                             # yo pensaba rut_emp, 
                              "0",
                              #104 DV Pagadora Subsidio
                              # yo pensaba rut_emp_dv, 
